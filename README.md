@@ -15,3 +15,7 @@
 [Практическая работа 1](https://github.com/Romauld1990/PDA_SOL/blob/main/Practical1.ipynb).
 
 [Практическая работа 2](https://github.com/Romauld1990/PDA_SOL/blob/main/Praktik2.ipynb)
+
+[Практическая работа 3_1](https://github.com/Romauld1990/PDA_SOL/blob/main/practic3_1.ipynb).
+
+[Практическая работа 3_2](https://github.com/Romauld1990/PDA_SOL/blob/main/practic3_2.ipynb).
